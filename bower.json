@@ -1,0 +1,12 @@
+{
+  "name": "yui3a-all",
+  "version": "3.11.0",
+  "main": "yui.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
